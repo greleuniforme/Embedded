@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+       <LinearLayout
+        android:layout_width="385dp"
+        android:layout_height="383dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="8dp"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.47"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="203dp"
+            android:layout_marginTop="10dp">
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="match_parent"
+                android:layout_height="203dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="0dp"
+                app:srcCompat="@drawable/ic_news_item" />
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            Donec vehicula convallis est, eu dapibus tortor cursus eu.
+            Duis tristique, eros ac mollis viverra, neque elit tempus ex, non cursus dolor lectus tempus metus.
+            Nullam efficitur mollis risus id dapibus.
+            Vestibulum eget cursus urna.
+            Etiam aliquet lacus eget aliquet vehicula.
+            Pellentesque mattis et nulla vitae accumsan.
+            Nullam varius semper lacus ut dapibus.
+            Aliquam at massa non tortor pharetra consequat sed a erat.
+            Maecenas vitae urna eu lacus lobortis scelerisque eu id augue.
+            Aliquam ultricies sem non arcu elementum accumsan.
+            Aenean felis ipsum, viverra sit amet feugiat vitae, facilisis vitae mi.
+            Vestibulum varius, metus at interdum mollis, enim ante dictum augue, nec fermentum odio justo at risus.
+            Etiam libero ligula, malesuada eget risus sed, semper convallis nulla.
+            In id ornare dui, sit amet sollicitudin magna.
+            Nunc interdum ex vel ex venenatis, ut semper erat varius.
+            Integer luctus interdum vestibulum.
+            Vestibulum porta a ligula quis ullamcorper.
+            Quisque ultricies consequat turpis a blandit.
+            In congue faucibus neque a ullamcorper.
+            Aenean viverra diam vitae enim ultricies, nec scelerisque velit rhoncus.
+            Vivamus vitae maximus libero."
+            android:textSize="18sp" />
+
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

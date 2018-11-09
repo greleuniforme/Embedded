@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">app</string>
+    <string name="text_bottom_navigation_icon_news">Home</string>
+    <string name="text_bottom_navigation_icon_account">Account</string>
+    <string name="text_login_page_text_login_page">Login page</string>
+    <string name="text_login_button_login_page">Login</string>
+    <string name="text_register_text_login_page">No account ?</string>
+
+    <string name="text_logged_text_logged_page">Logged</string>
+    <string name="text_disconnect_text_logged_page">Disconnect</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>

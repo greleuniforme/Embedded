@@ -1,0 +1,15 @@
+D:\ANDROID\embedded\APIEmbedded\APIEmbedded\bin\Release\netcoreapp2.1\APIEmbedded.deps.json
+D:\ANDROID\embedded\APIEmbedded\APIEmbedded\bin\Release\netcoreapp2.1\APIEmbedded.runtimeconfig.json
+D:\ANDROID\embedded\APIEmbedded\APIEmbedded\bin\Release\netcoreapp2.1\APIEmbedded.runtimeconfig.dev.json
+D:\ANDROID\embedded\APIEmbedded\APIEmbedded\bin\Release\netcoreapp2.1\APIEmbedded.dll
+D:\ANDROID\embedded\APIEmbedded\APIEmbedded\bin\Release\netcoreapp2.1\APIEmbedded.pdb
+D:\ANDROID\embedded\APIEmbedded\APIEmbedded\obj\Release\netcoreapp2.1\APIEmbedded.csprojAssemblyReference.cache
+D:\ANDROID\embedded\APIEmbedded\APIEmbedded\obj\Release\netcoreapp2.1\APIEmbedded.csproj.CoreCompileInputs.cache
+D:\ANDROID\embedded\APIEmbedded\APIEmbedded\obj\Release\netcoreapp2.1\APIEmbedded.RazorAssemblyInfo.cache
+D:\ANDROID\embedded\APIEmbedded\APIEmbedded\obj\Release\netcoreapp2.1\APIEmbedded.RazorAssemblyInfo.cs
+D:\ANDROID\embedded\APIEmbedded\APIEmbedded\obj\Release\netcoreapp2.1\APIEmbedded.AssemblyInfoInputs.cache
+D:\ANDROID\embedded\APIEmbedded\APIEmbedded\obj\Release\netcoreapp2.1\APIEmbedded.AssemblyInfo.cs
+D:\ANDROID\embedded\APIEmbedded\APIEmbedded\obj\Release\netcoreapp2.1\APIEmbedded.RazorTargetAssemblyInfo.cache
+D:\ANDROID\embedded\APIEmbedded\APIEmbedded\obj\Release\netcoreapp2.1\APIEmbedded.dll
+D:\ANDROID\embedded\APIEmbedded\APIEmbedded\obj\Release\netcoreapp2.1\APIEmbedded.pdb
+D:\ANDROID\embedded\APIEmbedded\APIEmbedded\bin\Release\netcoreapp2.1\Data\embedded.db
